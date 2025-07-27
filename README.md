@@ -54,7 +54,7 @@ I'm currently **learning and trying to understand cybersecurity & ethical hackin
 ---
 
 ## 🔗 Connect with Me  
-📫 **Email:** [sahanirenato6@gmail.com](mailto:renatochuck0@gmail.com)  
+📫 **Email:**](mailto:renatochuck0@gmail.com)  
 🛡️ **Check out my security tools on GitHub!**  
 🎥 **I also create YouTube videos! Check out my channel:**  
 [![YouTube](https://img.shields.io/badge/YouTube-Renatox3-red?style=flat&logo=youtube)](https://youtube.com/@renatox3?si=qmscbmCic8obzyiK)  
